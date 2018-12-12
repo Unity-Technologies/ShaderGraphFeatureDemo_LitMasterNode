@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WingBottom
+  m_Shader: {fileID: 4800000, guid: aa5021bf7a1d65e4ca6b7cf29b4391a1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_219A186B_Texture:
+        m_Texture: {fileID: 2800000, guid: faeacaef9d3f46e41aa883472872670e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2A378064_Texture:
+        m_Texture: {fileID: 2800000, guid: a45133d4db102894c94e41d986bcb189, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_91B8CF69_Texture:
+        m_Texture: {fileID: 2800000, guid: 43b43e97d35e3124f9c7e14ec7607341, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_A9B39445_Texture:
+        m_Texture: {fileID: 2800000, guid: d2437a74200335a4198fa12c209c62cd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_D17DF5C2_Texture:
+        m_Texture: {fileID: 2800000, guid: ccf4d2d1285852f4aa72d551c1199b27, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_12589EC5: 1
+    - Vector1_20A61F0B: 0.05
+    - Vector1_409379AB: 0
+    - Vector1_443E8C91: 0.3
+    - Vector1_65D13018: 0.2
+    - Vector1_C1439FA9: 0.9
+    - Vector1_C83914CF: 0.35
+    - Vector1_DB88063A: 0.6
+    m_Colors:
+    - Color_5723F99: {r: 0.6509434, g: 0.43838137, b: 0.22414559, a: 0}
+    - Color_8BB60C53: {r: 0.1792453, g: 0.024519408, b: 0.024519408, a: 1}
+    - Vector2_64F488F3: {r: 20, g: 25, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
