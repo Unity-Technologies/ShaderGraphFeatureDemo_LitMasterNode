@@ -23,10 +23,25 @@ Instructions
 ------------
 **Important! This Project uses git-lfs to store large file types!**
 
-Quick Instructions
+Quick instructions for people familiar with Git
 1. Install [Git LFS](https://git-lfs.github.com/)
 2. Clone this repository somewhere to disk
 3. run `git lfs install` to initialize Git LFS
+4. Launch with Unity version [2018.3](https://unity3d.com/get-unity/update)
+
+Longer instructions for people new to Git
+1. Locate the green button that says **Clone or Download**. Select it.
+2. Select **Open in Desktop.** That will launch https://desktop.github.com/. 
+3. Locate the Purple **Download** button, select it. This will download GitHubDesktopSetup.exe, launch that exe after it downloads.
+4. One it installs, launch it or allow it to auto launch. You should see three buttons in the middle of the GitHub Desktop Window. Select the third button, **Clone a repository**.
+5. This will bring up a popup window, select the third tab **URL**.
+6. Where is says *URL or username/repository* add https://github.com/natalieburke/ShaderGraphFeatureDemo_LitMasterNode.
+7 **Choose** a Local path or use the auto created one.
+8. Select **Clone**. Wait a little.
+9. When this finishes another popup will appear that says Initialize Git LFS. This is important, make sure you select **Initialize Git LFS** (Blue button).
+10. The project is now on your machine at the location selected as the Local path from step 7.
+11. Launch the project with Unity version [2018.3](https://unity3d.com/get-unity/update)
+
 
 Acknowledgement
 ---------------
