@@ -36,7 +36,7 @@ Longer instructions for people new to Git
 4. One it installs, launch it or allow it to auto launch. You should see three buttons in the middle of the GitHub Desktop Window. Select the third button, **Clone a repository**.
 5. This will bring up a popup window, select the third tab **URL**.
 6. Where is says *URL or username/repository* add https://github.com/natalieburke/ShaderGraphFeatureDemo_LitMasterNode.
-7 **Choose** a Local path or use the auto created one.
+7. **Choose** a Local path or use the auto created one.
 8. Select **Clone**. Wait a little.
 9. When this finishes another popup will appear that says Initialize Git LFS. This is important, make sure you select **Initialize Git LFS** (Blue button).
 10. The project is now on your machine at the location selected as the Local path from step 7.
