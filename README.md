@@ -1,6 +1,6 @@
 # Lit Master Node Demo Project
 
-**Read the official [Blog Post](LINK HERE)**
+**Read the official [Blog Post](https://blogs.unity3d.com/2018/12/19/unity-2018-3-shader-graph-update-lit-master-node/).**
 
 **This Project is intended to work with Unity release [2013.3](https://unity3d.com/get-unity/update).**
 
